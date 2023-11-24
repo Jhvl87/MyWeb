@@ -1,0 +1,2 @@
+2023-11-23 15:30:24.426 [error] node #1: https://mobile.events.data.microsoft.com/OneCollector/1.0?cors=true&content-type=application/x-json-stream - error POST read ECONNRESET
+2023-11-23 15:30:27.178 [error] node #3: https://mobile.events.data.microsoft.com/OneCollector/1.0?cors=true&content-type=application/x-json-stream - error POST read ECONNRESET

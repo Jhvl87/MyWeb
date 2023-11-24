@@ -1,0 +1,10 @@
+2023-11-23 15:29:07.231 [info] Extension host with pid 16110 started
+2023-11-23 15:29:07.365 [info] ExtensionService#_doActivateExtension vscode.git-base, startup: true, activationEvent: '*', root cause: vscode.git
+2023-11-23 15:29:07.393 [info] ExtensionService#_doActivateExtension vscode.git, startup: true, activationEvent: '*'
+2023-11-23 15:29:07.394 [info] ExtensionService#_doActivateExtension vscode.github, startup: true, activationEvent: '*'
+2023-11-23 15:29:07.744 [info] Eager extensions activated
+2023-11-23 15:29:07.744 [info] ExtensionService#_doActivateExtension vscode.debug-auto-launch, startup: false, activationEvent: 'onStartupFinished'
+2023-11-23 15:29:07.744 [info] ExtensionService#_doActivateExtension vscode.merge-conflict, startup: false, activationEvent: 'onStartupFinished'
+2023-11-23 15:29:09.820 [info] ExtensionService#_doActivateExtension vscode.emmet, startup: false, activationEvent: 'onLanguage'
+2023-11-23 15:29:26.415 [info] Extension host terminating: received terminate message from renderer
+2023-11-23 15:29:26.453 [info] Extension host with pid 16110 exiting with code 0

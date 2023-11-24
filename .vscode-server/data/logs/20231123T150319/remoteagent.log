@@ -1,0 +1,18 @@
+2023-11-23 15:03:19.841 [info] 
+
+
+
+
+2023-11-23 15:03:19.841 [info] Extension host agent started.
+2023-11-23 15:03:19.841 [info] Started initializing default profile extensions in extensions installation folder. file:///home/villamizar/.vscode-server/extensions
+2023-11-23 15:03:19.859 [info] Completed initializing default profile extensions in extensions installation folder. file:///home/villamizar/.vscode-server/extensions
+2023-11-23 15:03:19.993 [info] [127.0.0.1][ccf245fa][ManagementConnection] New connection established.
+2023-11-23 15:03:20.467 [info] [127.0.0.1][ae85f8d3][ExtensionHostConnection] New connection established.
+2023-11-23 15:03:20.472 [info] [127.0.0.1][ae85f8d3][ExtensionHostConnection] <11503> Launched Extension Host Process.
+2023-11-23 15:28:18.584 [info] [127.0.0.1][ccf245fa][ManagementConnection] The client has disconnected gracefully, so the connection will be disposed.
+2023-11-23 15:28:18.661 [info] [127.0.0.1][ae85f8d3][ExtensionHostConnection] <11503> Extension Host Process exited with code: 0, signal: null.
+2023-11-23 15:28:20.591 [info] [127.0.0.1][781eee41][ManagementConnection] New connection established.
+2023-11-23 15:28:21.389 [info] [127.0.0.1][3c22c417][ExtensionHostConnection] New connection established.
+2023-11-23 15:28:21.398 [info] [127.0.0.1][3c22c417][ExtensionHostConnection] <15967> Launched Extension Host Process.
+2023-11-23 15:28:30.764 [info] [127.0.0.1][781eee41][ManagementConnection] The client has disconnected gracefully, so the connection will be disposed.
+2023-11-23 15:28:30.790 [info] [127.0.0.1][3c22c417][ExtensionHostConnection] <15967> Extension Host Process exited with code: 0, signal: null.
